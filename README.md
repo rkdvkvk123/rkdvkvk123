@@ -2,7 +2,7 @@
 
 <h2> Hello Junyoung </h2>
 
-<div align = "center">
+
 
 <span> 💌 Email : rkdvkvk456@naver.com </span> <br>
 <span> 🔎 소통을 중요시하는 부지런한 개발자, 유준영입니다. </span> <br>
@@ -14,7 +14,7 @@
 ﹏﹏﹏﹏﹏﹏﹏
 
 <br/><br/>
- 
+<div align = "center"> 
 <h3>💻 Tech Stack 💻</h3>
  
 <br/>

@@ -7,6 +7,7 @@
 <span> 💌 Email : rkdvkvk456@naver.com </span> <br>
 <span> 🔎 소통을 중요시하는 부지런한 개발자, 유준영입니다. </span> <br>
 <span> 🥕 결과도 중요하지만, 무엇보다 '과정 속에서 얻는 깨달음'을 좋아해요 </span>
+<span> 📄 언어와 프레임워크에 구애받지 않는 개발자가 되는 것이 목표입니다. 언어의 특징과 철학에 맞는 코드를 작성하기 위해 노력합니다. </span>
 
 <br/><br/>
 
@@ -14,6 +15,9 @@
 ﹏﹏﹏﹏﹏﹏﹏
 
 <br/><br/>
+
+### Skill
+
 - Language: 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat&logo=Javascript&logoColor=%23F7DF1E)

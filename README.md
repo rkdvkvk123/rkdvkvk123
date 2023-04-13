@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
+<h2> Hello Junyoung </h2>
 
 <div align = "center">
 
-<br/>
-<h3>YooJunYOung </h3><br/>
-
-
+<span> 💌 Email : rkdvkvk456@naver.com </span> <br>
+<span> 🔎 소통을 중요시하는 부지런한 개발자, 유준영입니다. </span> <br>
+<span> 🥕 결과도 중요하지만, 무엇보다 '과정 속에서 얻는 깨달음'을 좋아해요 </span>
 
 <br/><br/>
 

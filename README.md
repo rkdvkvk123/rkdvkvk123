@@ -11,13 +11,6 @@
 
 <br/><br/>
 
-  
-﹏﹏﹏﹏﹏﹏﹏
-
-<br/><br/>
-
-### Skill
-
 # 🛠 Technical Skills
 |Languages |Frameworks |Design |Editors|Version Control |ETC|
 |:---:|:---:|:---:|:---:|:---:|:---:|
